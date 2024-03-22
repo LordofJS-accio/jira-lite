@@ -37,7 +37,7 @@ function addTask() {
                 clickedCard.innerText = "";
          }
     })
-
+    
     let selector = document.createElement("select") 
     selector.innerHTML = `
        <option value="todo1">Todo</option>
