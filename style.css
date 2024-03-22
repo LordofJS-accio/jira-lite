@@ -19,3 +19,11 @@
      
 }
 
+.card{
+    background: #000000;
+    color: wheat;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
